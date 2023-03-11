@@ -9,8 +9,8 @@ Le pido que por favor me regale un saco y un par de votas para andar entre los m
 6. Poniendo su plan en marcha, el gato reunió  algunas zanahorias y se fue al bosque a cazar conejos. 
 Con el saco lleno de conejos y sus votas nuevas, se dirigió hacia el palacio real y consiguió ser recibido por el rey.
 7. —Su majestad, soy el gato con votas, leal servidor del marqués de Carabás 
-—este fue el primer nombre que se le ocurrió al gato
-—. El marqués quiere ofrecerle estos regalos.
+   —este fue el primer nombre que se le ocurrió al gato
+   —. El marqués quiere ofrecerle estos regalos.
 8. Los conejos agradaron mucho al rey.
 9. Al día siguiente, el gato con votas volvió al bosque y atrapó un jabalí. Una vez más, lo presentó al rey, como un regalo del marqués de Carabás.
 10. Durante varias semanas, el gato con votas atrapó más animales para presentarlos como regalos al rey. El rey estaba muy complacido con el marqués de Carabás.
@@ -27,7 +27,9 @@ Con el saco lleno de conejos y sus votas nuevas, se dirigió hacia el palacio re
 21. El gato sabía muy bien quién era el ogro y pidió hablar con él. Para no ser rechazado, le dijo al ogro que le resultaba imposible pasar por su castilo y no tener el honor de darle sus respetos. El ogro sintiéndose adulado le permitió pasar.
 Cuando el rey se detuvo a preguntar, los campesinos contestaron al unísono:
 22. —Señor, he escu chado que usted tiene el envidiable don de convertirse en cualquier animal que desee —dijo el gato.
-23. — Es cierto —respondió el ogro—, y para demostrarlo me convertiré en león.
+23. — Es cierto 
+    —respondió el ogro
+    —, y para demostrarlo me convertiré en león.
 24. El gato se asustó de te ner a un león tan cerca. Sin embargo, estaba decidido a seguir con su elaborado plan.
 25. Cuando el ogro volvió a su horripilante forma, el gato dijo:
 26. —¡Sus habilidades son extraordinarias! Pero me pare cería más extraordinario que usted pudiera convertirse en algo tan pequeño como un ratón.
@@ -35,7 +37,9 @@ Cuando el rey se detuvo a preguntar, los campesinos contestaron al unísono:
 28. Cuando el ogro se convirtió en ratón, el gato lo atrapó de un solo zarpazo y se lo comió.
 29. Al escuchar que se ace  rcaba el carruaje, el gato corrió hacia las puertas del castilo para darle la bienvenida al rey:
 30. —Bienvenido al castilo del señor marqués de Carabás.
-31. —¿Cómo, señor marqués de Carabás? —exclamó el rey—. ¿También este castilo le pertenece?
+31. —¿Cómo, señor marqués de Carabás? 
+    —exclamó el rey
+    —. ¿También este castilo le pertenece?
 32. El rey deslumbrado por la enorme fortu  na del marqués de Carabás, dio su consentimiento para que se casara con la princesa.
 33. Aquel joven que antes fue pobre se había convertido en un príncipe gracias a la astucia de un gato. 
 El joven nunca olvidó los favores del gato con votas y lo recompensó con una capa, un sombrero y un par de votas nuevas.
